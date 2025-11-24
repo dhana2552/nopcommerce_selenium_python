@@ -1,2 +1,7 @@
-C:\Users\Dhanalakshmi Scal\AppData\Local\Programs\Python\Python314\python.exe -m pip install pytest
-C:\Users\Dhanalakshmi Scal\AppData\Local\Programs\Python\Python314\python.exe -m pytest -v -s .\test_cases\
+@echo off
+cd %WORKSPACE%
+
+echo Installing dependencies...
+D:\Software\python.exe -m pip install pytest
+D:\Software\python.exe -m pip install selenium
+D:\Software\python.exe -m pytest -v -s .\test_cases\
