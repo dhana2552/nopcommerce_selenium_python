@@ -1,1 +1,2 @@
-pytest -v -s .\test_cases\
+C:\Users\Dhanalakshmi Scal\AppData\Local\Programs\Python\Python314\python.exe -m pip install pytest
+C:\Users\Dhanalakshmi Scal\AppData\Local\Programs\Python\Python314\python.exe -m pytest -v -s .\test_cases\
