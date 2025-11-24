@@ -2,7 +2,7 @@
 cd %WORKSPACE%
 
 echo Installing dependencies...
-D:\Software\python.exe -m pip install pytest
-D:\Software\python.exe -m pip install selenium
-D:\Software\python.exe -m pip install undetected_chromedriver
-D:\Software\python.exe -m pytest -v -s .\test_cases\
+"C:\Users\Dhanalakshmi Scal\AppData\Local\Microsoft\WindowsApps\python.exe" -m pip install pytest
+"C:\Users\Dhanalakshmi Scal\AppData\Local\Microsoft\WindowsApps\python.exe" -m pip install selenium
+"C:\Users\Dhanalakshmi Scal\AppData\Local\Microsoft\WindowsApps\python.exe" -m pip install undetected_chromedriver
+"C:\Users\Dhanalakshmi Scal\AppData\Local\Microsoft\WindowsApps\python.exe" -m pytest -v -s .\test_cases\
